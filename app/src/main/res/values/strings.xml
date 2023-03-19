@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NoteKeeperKotlin</string>
+    <string name="note">Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="title">Title</string>
+    <string name="title_hint">Enter a Title</string>
+    <string name="description">Description</string>
+    <string name="description_hint">Enter Description</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="required_info">Please provide all the required information</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_now_text">Already have an account? <font color="#2196f3">Login Now</font></string>
+
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_to_access">Sign In to access your note</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register_now_text">Don\'t have an account? <font color="#2196f3">Register Now</font></string>
+    <string name="submit">Submit</string>
+
+</resources>
